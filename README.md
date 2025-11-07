@@ -1,0 +1,1 @@
+# Transcri-o-de-udio-via-Vosk-com-gera-o-de-arquivo-em-texto
